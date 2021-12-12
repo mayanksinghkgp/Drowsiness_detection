@@ -9,4 +9,4 @@ Result from the opencv and CNN based detector:
 
 The YoloV5 based detector is trained on a custom set of images captured using OpenCV and labelled with the help of lableimg.  
 The result form the model is as shown below:  
-<img scr="https://github.com/mayanksinghkgp/Drowsiness_detection/blob/main/yolov5_drowsy.JPG" width="300" height="300" />
+![image](https://github.com/mayanksinghkgp/Drowsiness_detection/blob/main/drowsinessyolov5.gif)  
